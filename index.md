@@ -2,7 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Font
+
+Our font of choice is "Raleway" (thin).
+
+https://fonts.google.com/specimen/Raleway
+
+We apply an emphasis on using font sizes and weights that are bold and accessible. Our product is vision correction, so it makes sense in this regards. 
+
+# Colors
+
+We utilize a pastel color palette on top of a light theme, with the two colours as a primary reference.
+
+
+![Turquoise](https://imgur.com/yRL7sY2)
+
+Hex: #68c2ab
+
+![Purple](https://imgur.com/yRL7sY2)
+
+#464b7b
+
+Pastel colors compliment our brand color scheme.
+
 
 [Link to another page](./another-page.html).
 
