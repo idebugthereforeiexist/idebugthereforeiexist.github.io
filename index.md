@@ -15,13 +15,13 @@ We apply an emphasis on using font sizes and weights that are bold and accessibl
 We utilize a pastel color palette on top of a light theme, with the two colours as a primary reference.
 
 
-![Turquoise](https://imgur.com/yRL7sY2)
+![Turquoise](https://i.imgur.com/yRL7sY2.png)
 
-Hex: #68c2ab
+Hex: ```#68c2ab```
 
-![Purple](https://imgur.com/yRL7sY2)
+![Purple](https://i.imgur.com/yRL7sY2.png)
 
-#464b7b
+Hex: ```#464b7b```
 
 Pastel colors compliment our brand color scheme.
 
