@@ -1,5 +1,8 @@
 ---
 ---
 
-@import "";
-@import "kits/";
+@import "{{ site.theme }}";
+
+body {
+	background-color: pink;
+}
